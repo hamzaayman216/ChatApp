@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "580777056137",
+    "project_id": "chat-856be",
+    "storage_bucket": "chat-856be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580777056137:android:ec6eee2efb2decceffb358",
+        "android_client_info": {
+          "package_name": "com.hamzaayman.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFMiY_ebKLz0ZCKJes7eNn5Mpc92ExM9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
